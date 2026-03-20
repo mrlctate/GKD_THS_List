@@ -124,8 +124,8 @@ const List: Root = [
     prescribedUpdateUrl: false,
     subUrls: [
       {
-        name: 'npmmirror源（国内）',
-        importUrl: 'https://registry.npmmirror.com/gkd-mrlc/latest/files/dist/gkd.json5',
+        name: 'cloudflare源（国内）',
+        importUrl: 'https://gkd-mrlc.pages.dev/gkd.json5',
       },
     ],
     repo: 'mrlctate/gkd-mrlc',
